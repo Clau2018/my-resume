@@ -1,0 +1,18 @@
+
+<svg width="79px" height="10px" viewBox="0 0 79 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Copy" transform="translate(-536.000000, -368.000000)">
+            <g id="about_me-horizontal-label" transform="translate(536.000000, 365.000000)">
+                <text id="ABOUT-ME" font-family="Abel-Regular, Abel" font-size="12" font-weight="normal" letter-spacing="1.675" fill="#50E3C2">
+                    <tspan x="13" y="12">ABOUT ME</tspan>
+                </text>
+                <polyline id="Path-3" stroke="#50E3C2" stroke-width="0.8" transform="translate(76.250000, 8.000000) scale(-1, 1) translate(-76.250000, -8.000000) " points="78.5 12 74 8 78.5 4"></polyline>
+                <polyline id="Path-3" stroke="#50E3C2" stroke-width="0.8" points="11 12 6.5 8 11 4"></polyline>
+                <path d="M0,8 L7,8" id="Path-4" stroke="#50E3C2" transform="translate(3.500000, 8.000000) scale(-1, 1) translate(-3.500000, -8.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
